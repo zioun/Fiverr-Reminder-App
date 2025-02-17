@@ -25,7 +25,7 @@ function startTimer() {
             playMusic();
             totalTime = 5 * 60;
         }
-    }, 1000);
+    }, 10);
 }
 
 startTimer();
