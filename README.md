@@ -1,3 +1,7 @@
+## Screenshot
+
+![Application Screenshot](./assets/demo.png)
+
 # Fiverr Account Reminder Application
 
 This application serves as a reminder to load your Fiverr account every 4 minutes. It features an alert system and a countdown timer that displays the remaining time until the next alert.
@@ -26,7 +30,7 @@ This application serves as a reminder to load your Fiverr account every 4 minute
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/fiverr-reminder-app.git
+   git clone https://github.com/zioun/fiverr-reminder-app.git
    ```
 
 2. Navigate to the project directory:
@@ -44,17 +48,9 @@ This application serves as a reminder to load your Fiverr account every 4 minute
 3. Receive an alert notification once the timer reaches zero.
 4. Repeat the process as needed to remind yourself to load your Fiverr account.
 
-## Screenshot
-
-![Application Screenshot](./assets/demo.png)
-
 ## Contributing
 
 Contributions are welcome! If you have suggestions or want to report an issue, feel free to open a pull request or submit an issue in the repository.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
